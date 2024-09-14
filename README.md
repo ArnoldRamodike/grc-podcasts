@@ -1,5 +1,3 @@
-# The GRC podcast with the latest episodes
+# The file sharing application
 
-This applicatiton provede all the latest news.
-
-Currently, free of charge from the GRC group.
+This applicatiton is the google docs alternative.
