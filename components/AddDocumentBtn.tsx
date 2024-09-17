@@ -6,7 +6,7 @@ import Image from "next/image";
 import { createDocument } from "@/lib/actions/room.actions";
 import { useRouter } from "next/navigation";
 
-const AddDocumentBtn = ({ email, userId }: AddDocumentBtnProps) => {
+const AddDocumentBtn = ({ userId, email }: AddDocumentBtnProps) => {
   const router = useRouter();
   const addDocumentHandler = async () => {
     try {
